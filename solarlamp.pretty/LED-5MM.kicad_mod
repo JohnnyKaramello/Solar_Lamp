@@ -1,7 +1,7 @@
-(module LED-5MM (layer F.Cu) (tedit 578CCEDA)
+(module LED-5MM (layer F.Cu) (tedit 58D11075)
   (descr "LED 5mm round vertical")
   (tags "LED 5mm round vertical")
-  (fp_text reference D2 (at 0.254 4.064) (layer F.SilkS) hide
+  (fp_text reference D2 (at 0.254 4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value LED (at 0.254 -3.937) (layer F.Fab) hide
